@@ -25,5 +25,30 @@ java -jar 项目名.jar
 4.  新建 Pull Request
 5.  写代码上传
 
+# talk-jsp-2020
 
+#### Introduction
+The ultra-mini online chat site may be the simplest project on github except helloworld, springboot+jsp, you can see it at a glance,
+Realize the anonymous online chat of up to 1000 people, the structure is reliable and safe, there is no database, no worry about data leakage
+All data is destroyed when the server is shut down.
+
+#### Software Architecture
+Software architecture description springboot+jsp
+
+
+#### Installation tutorial
+Start in the project or cmd command, start in the windows or linux environment with jre environment
+java -jar project name.jar
+
+#### Instructions for use
+
+Enter the local ip address such as 127.0.0.1/login (it will be adjusted to localhost for access later) and you can use it without any other operations
+
+#### Participate in Contribution
+
+1. Fork this warehouse
+2. Create new Feat_xxx branch
+3. Submit the code
+4. New Pull Request
+5. Write code upload
 
