@@ -1,4 +1,4 @@
-package com.exchange.controller.test;
+package com.exchange.controller.utils;
 
 import javax.servlet.http.HttpServletRequest;
 
