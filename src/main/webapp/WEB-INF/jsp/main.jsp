@@ -42,7 +42,7 @@
 </div>
 
 <hr />
-<form id="form01" name="userform" action="/login"  method="post" target="_self" >
+<form id="form01" name="userform" action="/"  method="post" target="_self" >
     用户:<c:out value="${username}"></c:out>
     <br>
     输入框:<br>

@@ -31,8 +31,8 @@ public class IPtoNameUtil {
             String name=namelist.substring(i-2,i);
             return  lastname+name;
         }
-
-            return "未知用户";
+            //返回一个随机汉字用于无法识别的ip地址
+            return  "神秘用户"+(char) (0x4e00 + (int) (Math.random() * (0x9fa5 - 0x4e00 + 1)));
     }
 
     //根据ip地址取姓

@@ -14,7 +14,7 @@ import java.util.Date;
 @Controller
 public class Main {
 
-    @RequestMapping("/login")
+    @RequestMapping("/")
     public ModelAndView login(HttpServletRequest request, HttpServletResponse response){
         //新建ModelAndView视图
         ModelAndView m=new ModelAndView("main");
