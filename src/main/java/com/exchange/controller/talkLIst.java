@@ -13,7 +13,7 @@ public class talkLIst {
 
     @RequestMapping("/talkList")
     public ModelAndView talkList(HttpServletRequest request, HttpServletResponse response){
-        //新建ModelAndView视图
+        //新建ModelAndView视图，用来返回jsp页面
         ModelAndView m=new ModelAndView("talkList");
 
         m.addObject("list", ListUtil.getQueue());
