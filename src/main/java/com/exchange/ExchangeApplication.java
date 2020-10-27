@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExchangeApplication {
 
     public static void main(String[] args) {
-        // uuid
+        // uuid qwe
         SpringApplication.run(ExchangeApplication.class, args);
     }
 
