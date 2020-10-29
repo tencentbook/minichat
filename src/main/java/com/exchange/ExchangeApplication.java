@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExchangeApplication {
 
     public static void main(String[] args) {
-        // uuid qweet
+        // uuid qweet 的撒法的风格
         SpringApplication.run(ExchangeApplication.class, args);
     }
 
