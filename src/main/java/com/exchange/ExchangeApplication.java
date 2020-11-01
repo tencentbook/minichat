@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExchangeApplication {
 
     public static void main(String[] args) {
-        // uuid qweet 的撒法的风格公司的是德国的风土 房管但是公司的是德国是局
+        // uuid qweet 的撒法的风格公司的是德国的风土 房管但是
         SpringApplication.run(ExchangeApplication.class, args);
     }
 
