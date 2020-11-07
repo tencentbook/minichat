@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExchangeApplication {
 
     public static void main(String[] args) {
-        //啊沙发上安抚阿萨发送对事故发生的是德国
+        //啊沙发上安抚阿萨发送对事故发生的是德国地方发啊
         SpringApplication.run(ExchangeApplication.class, args);
     }
 
