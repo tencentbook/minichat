@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExchangeApplication {
 
     public static void main(String[] args) {
-        //啊沙发上安抚阿萨发发啊撒旦发二哥功耗
+        //啊沙发上安抚阿萨发发啊撒旦发二哥功耗岁的法国
         SpringApplication.run(ExchangeApplication.class, args);
     }
 
